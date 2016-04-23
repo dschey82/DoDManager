@@ -14,6 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Debug build files
+bin/
+obj/
+
 # Windows shortcuts
 *.lnk
 
